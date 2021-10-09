@@ -1,3 +1,10 @@
+#### Name: Chirag
+ - Place: Vadodara, India
+ - Bio: Student 
+ - GitHub: [chiragkk211](https://github.com/chiragkk211)
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
